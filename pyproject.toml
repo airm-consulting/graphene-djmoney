@@ -5,7 +5,7 @@ description = "GraphQL Money types for Django using graphene and django-money (d
 authors = ["Paul Craciunoiu <paul@craciunoiu.net>"]
 
 [tool.flit.metadata]
-module = "djmoney"
+module = "graphene-djmoney"
 
 [tool.poetry.dependencies]
 python = "^3.7"
